@@ -41,8 +41,9 @@ It does not absorb neighboring module responsibilities. Core primitives stay in 
 - `gnalloy.org/transport-http3` (`http3`)
 
 ## Gnalloy Dependencies
-- `gnalloy.org/gnalloy`
+
 - `gnalloy.org/codec-http3`
+- `gnalloy.org/gnalloy`
 - `gnalloy.org/transport-quic`
 
 ## Common Integration Pattern

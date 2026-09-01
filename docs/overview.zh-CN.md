@@ -19,11 +19,13 @@ HTTP/3 传输绑定，将 QUIC request/control/QPACK/push stream 映射到 Gnall
 - `gnalloy.org/transport-http3`（`http3`）
 
 ## 直接 Gnalloy 依赖
-- `gnalloy.org/gnalloy`
+
 - `gnalloy.org/codec-http3`
+- `gnalloy.org/gnalloy`
 - `gnalloy.org/transport-quic`
 
-## 当前模块规划中的直接下游
+## 当前仓库集合中的直接下游
+
 - `gnalloy.org/benchmarks`
 - `gnalloy.org/transport-webtransport`
 

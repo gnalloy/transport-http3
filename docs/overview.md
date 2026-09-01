@@ -19,11 +19,13 @@ This module owns an I/O boundary. It creates or adapts Gnalloy Channels for a co
 - `gnalloy.org/transport-http3` (`http3`)
 
 ## Direct Gnalloy Dependencies
-- `gnalloy.org/gnalloy`
+
 - `gnalloy.org/codec-http3`
+- `gnalloy.org/gnalloy`
 - `gnalloy.org/transport-quic`
 
-## Direct Dependents in the Current Module Plan
+## Direct Dependents in the Current Repository Set
+
 - `gnalloy.org/benchmarks`
 - `gnalloy.org/transport-webtransport`
 

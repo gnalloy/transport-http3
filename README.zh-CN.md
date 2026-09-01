@@ -41,8 +41,9 @@ GOWORK=off GOTOOLCHAIN=local go test ./... -count=1
 - `gnalloy.org/transport-http3`（`http3`）
 
 ## Gnalloy 依赖
-- `gnalloy.org/gnalloy`
+
 - `gnalloy.org/codec-http3`
+- `gnalloy.org/gnalloy`
 - `gnalloy.org/transport-quic`
 
 ## 常见集成方式
